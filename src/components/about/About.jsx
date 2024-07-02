@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-          I'm 22 years old and currently I'm persuing computer science
+          I'm 22 years old and I have completed my computer science
           engineering from SRM Institute of technology. I started learning web
           development after completing my school and I am love it till date , I
           like to learn new topics in this field and try to implement it in my
