@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/Profile1.jpg";
-import CV from "../../assets/raga_Resume.pdf";
+import CV from "../../assets/MyResume_jul24.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-          I'm 21 years old and currently I'm persuing computer science
+          I'm 22 years old and currently I'm persuing computer science
           engineering from SRM Institute of technology. I started learning web
           development after completing my school and I am love it till date , I
           like to learn new topics in this field and try to implement it in my

@@ -52,7 +52,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">B. Tech CSE</h3>
                 <span className="qualification__subtitle">SRM - Institute</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - Present
+                  <i className="uil uil-calendar-alt"></i> 2020 - 2024
                 </div>
               </div>
 
